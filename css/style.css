@@ -1,0 +1,24 @@
+.bg-body-tertiary{
+    background-color: #B273CD  !important;
+}
+
+.nav-link, .navbar-brand, .btn{
+    font-family: cursive;
+    color: white !important;
+}
+
+.btn-outline-success {
+    --bs-btn-border-color: black;
+    --bs-btn-hover-color: black;
+    --bs-btn-hover-bg: black;
+    --bs-btn-active-bg: gray;
+    --bs-btn-active-border-color: black;
+    --bs-btn-hover-border-color: black;
+}
+
+
+
+
+
+
+
